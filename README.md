@@ -1,5 +1,4 @@
-### Hi, I'm Maua Imani 👋🏾
-!
+### Hi, I'm Maua Imani 👋🏾!
 
 - 🔭 Currently,  I'm training [SlotMeIn](https://github.com/Imani-Maua/SlotMeIn), leveraging ML algorithms and constraint optimization to intelligently schedule employee shifts. I'm using predictive models and pattern recognition to turn scheduling nightmares into data-driven allocation. 
 - 🌱 I recently started exploring backend development in Java in my SWE and Technologies class
