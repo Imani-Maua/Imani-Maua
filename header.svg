@@ -5,15 +5,67 @@
       <stop offset="50%" stop-color="#1a1030"/>
       <stop offset="100%" stop-color="#0d1117"/>
     </linearGradient>
+    <style>
+      text {
+        font-family: 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif;
+        font-size: 19px;
+        fill: #e6edf3;
+        letter-spacing: 1px;
+      }
+      .sep {
+        fill: #555;
+        font-size: 15px;
+      }
+    </style>
   </defs>
+
+  <!-- Background -->
   <rect width="860" height="90" fill="url(#bg)" rx="10"/>
-  <text
-    x="430"
-    y="48"
-    text-anchor="middle"
-    dominant-baseline="middle"
-    font-family="'Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji','Helvetica Neue',Arial,sans-serif"
-    font-size="19"
-    fill="#e6edf3"
-    letter-spacing="1.5">🧠 Learn  •  ☕ Coffee  •  💻 Code  •  🛠️ Build  •  🔁 Repeat</text>
+
+  <!-- 🧠 Learn -->
+  <text x="105" y="48" text-anchor="middle" dominant-baseline="middle">
+    🧠 Learn
+    <animate attributeName="y" values="48;42;48" dur="2.5s" repeatCount="indefinite"
+      begin="0s" calcMode="spline" keySplines="0.45 0.05 0.55 0.95; 0.45 0.05 0.55 0.95"/>
+  </text>
+
+  <!-- separator -->
+  <text x="196" y="48" text-anchor="middle" dominant-baseline="middle" class="sep">•</text>
+
+  <!-- ☕ Coffee -->
+  <text x="268" y="48" text-anchor="middle" dominant-baseline="middle">
+    ☕ Coffee
+    <animate attributeName="y" values="48;42;48" dur="2.5s" repeatCount="indefinite"
+      begin="0.4s" calcMode="spline" keySplines="0.45 0.05 0.55 0.95; 0.45 0.05 0.55 0.95"/>
+  </text>
+
+  <!-- separator -->
+  <text x="362" y="48" text-anchor="middle" dominant-baseline="middle" class="sep">•</text>
+
+  <!-- 💻 Code -->
+  <text x="430" y="48" text-anchor="middle" dominant-baseline="middle">
+    💻 Code
+    <animate attributeName="y" values="48;42;48" dur="2.5s" repeatCount="indefinite"
+      begin="0.8s" calcMode="spline" keySplines="0.45 0.05 0.55 0.95; 0.45 0.05 0.55 0.95"/>
+  </text>
+
+  <!-- separator -->
+  <text x="498" y="48" text-anchor="middle" dominant-baseline="middle" class="sep">•</text>
+
+  <!-- 🛠️ Build -->
+  <text x="573" y="48" text-anchor="middle" dominant-baseline="middle">
+    🛠️ Build
+    <animate attributeName="y" values="48;42;48" dur="2.5s" repeatCount="indefinite"
+      begin="1.2s" calcMode="spline" keySplines="0.45 0.05 0.55 0.95; 0.45 0.05 0.55 0.95"/>
+  </text>
+
+  <!-- separator -->
+  <text x="648" y="48" text-anchor="middle" dominant-baseline="middle" class="sep">•</text>
+
+  <!-- 🔁 Repeat -->
+  <text x="748" y="48" text-anchor="middle" dominant-baseline="middle">
+    🔁 Repeat
+    <animate attributeName="y" values="48;42;48" dur="2.5s" repeatCount="indefinite"
+      begin="1.6s" calcMode="spline" keySplines="0.45 0.05 0.55 0.95; 0.45 0.05 0.55 0.95"/>
+  </text>
 </svg>
