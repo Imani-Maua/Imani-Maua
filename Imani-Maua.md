@@ -60,7 +60,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imani-Maua&theme=github_dark)
 
 <!-- Spotify current listen -->
-<h2 align="center">🎧 Spotify</h2>
+<h2 align="center">🎧 Probably Singing Along To:</h2>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=2uapw6zpo3rw5z26fdbde2zrj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=3dc23d">
