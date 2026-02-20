@@ -4,7 +4,7 @@
 - 🌱 I recently started exploring backend development in Java in my SWE and Technologies class
 - 👯 I enjoy building software that makes users' lives easier so that we focus on the fun stuff! 🐾
 - 📫 Find me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elaine-i-maua-666207226/)
-- 🖥️ [Portfolio]:(https://hello-imani.vercel.app)
+- 🖥️ [Portfolio](https://hello-imani.vercel.app)
 
 ---
 
@@ -23,7 +23,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" **alt="Vercel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original-wordmark.svg" title="Netlify" **alt="Netlify" width="40" height="40"/>&nbsp;
-  <img src="https://seeklogo.com/images/R/render-logo-1ED3A3B2F6-seeklogo.com.png" title="Render" alt="Render" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite.js" **alt="Vite.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
