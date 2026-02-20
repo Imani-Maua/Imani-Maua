@@ -1,0 +1,19 @@
+<svg viewBox="0 0 860 90" xmlns="http://www.w3.org/2000/svg" width="860" height="90">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#1a1030"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="90" fill="url(#bg)" rx="10"/>
+  <text
+    x="430"
+    y="48"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="'Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji','Helvetica Neue',Arial,sans-serif"
+    font-size="19"
+    fill="#e6edf3"
+    letter-spacing="1.5">🧠 Learn  •  ☕ Coffee  •  💻 Code  •  🛠️ Build  •  🔁 Repeat</text>
+</svg>
