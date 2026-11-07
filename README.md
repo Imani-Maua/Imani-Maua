@@ -43,18 +43,13 @@
         <img src="https://streak-stats.demolab.com?user=Imani-Maua&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
       </a>
     </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imani-Maua&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages">
-      </a>
-    </td>
   </tr>
 </table>
 
 ---
 
 <!-- Spotify current listen -->
-<h2 align="center">🎧 Probably Singing Along To:</h2>
+<h2 align="center">🎧</h2>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=2uapw6zpo3rw5z26fdbde2zrj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=3dc23d">
