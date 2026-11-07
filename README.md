@@ -1,12 +1,12 @@
+
 <p align="center">
   <img src="header.svg" alt="🧠 Learn • ☕ Coffee • 💻 Code • 🛠️ Build • 🔁 Repeat" />
 </p>
 
-### Hi, I'm Maua 👋🏾
+### Hi, I'm Maua 👋🏾 😃
 
-- 🔭 Currently training [SlotMeIn](https://github.com/Imani-Maua/SlotMeIn) — ML-powered shift scheduling using constraint optimization
-- 🌱 Exploring backend development in Java in my SWE & Technologies class
 - 👯 I love building software that makes life a little easier 🐾
+- 🌱 Building a unified API that abstracts the needs of a fintech behind one API 
 - 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elaine-i-maua-666207226/) &nbsp; 🖥️ [Portfolio](https://hello-imani.vercel.app)
 
 ---
