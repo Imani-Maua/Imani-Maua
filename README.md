@@ -6,7 +6,7 @@
 ### Hi, I'm Maua 👋🏾 😃
 
 - 👯 I love building software that makes life a little easier 🐾
-- 🌱 Building a unified API that abstracts the needs of a fintech behind one API 
+- 🌱 Building Harvest, an networking and research agent designed to bridge the gap between applying for a job and getting noticed. 
 - 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elaine-i-maua-666207226/) &nbsp; 🖥️ [Portfolio](https://hello-imani.vercel.app)
 
 ---
